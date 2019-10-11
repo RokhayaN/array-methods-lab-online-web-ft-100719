@@ -16,13 +16,14 @@ end
 def 
   using_first=["c","b","a"]
   using_first.first
-
 end
 
-def using_last(array)
-
+def 
+  using_last=["c","b","a"]
+  using_last
 end
 
-def using_size(array)
-
+def
+using_size=["c","b","a"]
+using_size.size
 end
