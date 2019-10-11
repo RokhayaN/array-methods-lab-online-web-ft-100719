@@ -6,8 +6,6 @@ end
 def
 using_sort = ["c","b","a"]
 using_sort.sort
-
-
 end
 
 def using_reverse(array)
