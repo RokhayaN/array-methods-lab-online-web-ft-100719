@@ -1,10 +1,12 @@
 def
 using_include = ["a","b","c"]
 using_include.include?("b")
-
 end
 
-def using_sort(array)
+def
+using_sort = ["c","b","a"]
+using_sort.sort
+
 
 end
 
