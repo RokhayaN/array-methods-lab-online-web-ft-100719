@@ -20,10 +20,10 @@ end
 
 def 
   using_last=["c","b","a"]
-  using_last
+  using_last.last
 end
 
 def
-using_size=["c","b","a"]
+using_size = ["c","b","a"]
 using_size.size
 end
