@@ -8,11 +8,14 @@ using_sort = ["c","b","a"]
 using_sort.sort
 end
 
-def using_reverse
-
+def 
+  using_reverse = ["c","b","a"]
+  using_reverse.using_reverse
 end
 
-def using_first(array)
+def 
+  using_first=["c","b","a"]
+  using_first.first
 
 end
 
