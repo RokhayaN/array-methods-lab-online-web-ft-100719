@@ -1,6 +1,6 @@
 def
-using_include
-(array, element)
+using_include = ["a","b","c"]
+using_include.include?("b")
 
 end
 
